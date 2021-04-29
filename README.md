@@ -10,4 +10,4 @@ Pulling information from USGS, this repository shows earthquake data from the la
 
 For an example of what the map looks like, see the image below:
 
-[Map](https://raw.githubusercontent.com/hookjamesa/Mapping_Earthquakes/master/Earthquakes.png)
+[Map](https://raw.githubusercontent.com/hookjamesa/Mapping_Earthquakes/main/Earthquakes.PNG)
